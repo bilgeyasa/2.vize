@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "175481563202",
+    "firebase_url": "https://findlocation-1481927899189.firebaseio.com",
+    "project_id": "findlocation-1481927899189",
+    "storage_bucket": "findlocation-1481927899189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175481563202:android:8cfa7c18ef290e08",
+        "android_client_info": {
+          "package_name": "sample.findlocation.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175481563202-grh0cc87k0p8tfautrd4mc9pnprdrp56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8W1KSS7tbP_6EST_Al_dhFGubjZHmBrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175481563202:android:688636461f04e3c7",
+        "android_client_info": {
+          "package_name": "com.sample.findlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175481563202-grh0cc87k0p8tfautrd4mc9pnprdrp56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8W1KSS7tbP_6EST_Al_dhFGubjZHmBrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
